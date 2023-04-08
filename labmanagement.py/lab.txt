@@ -1,0 +1,2 @@
+PC Number	OS	Status
+7		windows	unavalable
